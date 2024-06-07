@@ -8,6 +8,6 @@ Prety much every info covered in this blog
 Few Observations to highlight :
 
 - No Downtime for Modification
-- its Auto Adjust Throughput based on the Existing gp2 Volume
+- its Auto Adjust Throughput based on the Existing gp2 Volume if not specifically provided
 - Once the Volume is Modified we can only modify again after 6 Hours
 
